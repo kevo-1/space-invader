@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+D:\projects\sfml2\sfml\sfml\FileName.cpp(214,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\projects\sfml2\sfml\sfml\FileName.cpp(245,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  sfml.vcxproj -> D:\projects\sfml2\sfml\x64\Debug\sfml.exe
